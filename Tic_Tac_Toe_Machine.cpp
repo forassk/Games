@@ -1,5 +1,5 @@
 /* AUTHOR: NILANJAN DAS
-************* TIC - TAC - TOE PLAYER ****************
+************* TIC - TAC - TOE MACHINE ****************
 */
 
 #include <iostream> 
